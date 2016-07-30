@@ -74,6 +74,7 @@
     </message>
     <message>
         <location filename="mainwindow.cpp" line="43"/>
+        <location filename="mainwindow.cpp" line="77"/>
         <source>Monday</source>
         <oldsource>Mon.</oldsource>
         <translatorcomment>Monday</translatorcomment>
@@ -81,36 +82,42 @@
     </message>
     <message>
         <location filename="mainwindow.cpp" line="43"/>
+        <location filename="mainwindow.cpp" line="77"/>
         <source>Tuesday</source>
         <translatorcomment>Tuesday</translatorcomment>
         <translation>Tuesday</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="43"/>
+        <location filename="mainwindow.cpp" line="78"/>
         <source>Wednesday</source>
         <translatorcomment>Wednesday</translatorcomment>
         <translation>Wednesday</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="43"/>
+        <location filename="mainwindow.cpp" line="78"/>
         <source>Thursday</source>
         <translatorcomment>Thursday</translatorcomment>
         <translation>Thursday</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="44"/>
+        <location filename="mainwindow.cpp" line="78"/>
         <source>Friday</source>
         <translatorcomment>Friday</translatorcomment>
         <translation>Friday</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="44"/>
+        <location filename="mainwindow.cpp" line="79"/>
         <source>Saturday</source>
         <translatorcomment>Saturday</translatorcomment>
         <translation>Saturday</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="44"/>
+        <location filename="mainwindow.cpp" line="79"/>
         <source>Sunday</source>
         <translatorcomment>Sunday</translatorcomment>
         <translation>Sunday</translation>

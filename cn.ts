@@ -49,7 +49,7 @@
         <location filename="mainwindow.cpp" line="75"/>
         <source>Two</source>
         <translatorcomment>二</translatorcomment>
-        <translation></translation>
+        <translation>二</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="40"/>
@@ -74,6 +74,7 @@
     </message>
     <message>
         <location filename="mainwindow.cpp" line="43"/>
+        <location filename="mainwindow.cpp" line="77"/>
         <source>Monday</source>
         <oldsource>Mon.</oldsource>
         <translatorcomment>星期一</translatorcomment>
@@ -81,36 +82,42 @@
     </message>
     <message>
         <location filename="mainwindow.cpp" line="43"/>
+        <location filename="mainwindow.cpp" line="77"/>
         <source>Tuesday</source>
         <translatorcomment>星期二</translatorcomment>
         <translation>星期二</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="43"/>
+        <location filename="mainwindow.cpp" line="78"/>
         <source>Wednesday</source>
         <translatorcomment>星期三</translatorcomment>
         <translation>星期三</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="43"/>
+        <location filename="mainwindow.cpp" line="78"/>
         <source>Thursday</source>
         <translatorcomment>星期四</translatorcomment>
         <translation>星期四</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="44"/>
+        <location filename="mainwindow.cpp" line="78"/>
         <source>Friday</source>
         <translatorcomment>星期五</translatorcomment>
         <translation>星期五</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="44"/>
+        <location filename="mainwindow.cpp" line="79"/>
         <source>Saturday</source>
         <translatorcomment>星期六</translatorcomment>
         <translation>星期六</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="44"/>
+        <location filename="mainwindow.cpp" line="79"/>
         <source>Sunday</source>
         <translatorcomment>星期日</translatorcomment>
         <translation>星期日</translation>
