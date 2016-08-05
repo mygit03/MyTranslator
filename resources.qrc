@@ -2,5 +2,6 @@
     <qresource prefix="/">
         <file>cn.qm</file>
         <file>en.qm</file>
+        <file>style.qss</file>
     </qresource>
 </RCC>
